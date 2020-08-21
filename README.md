@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with **System Design and Implementation**
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [Max's :japanese_castle:](https://maxpham.dev)
-- ⚡ Fun fact: I'm currently building my first PC! - [PCPartPicker](https://ca.pcpartpicker.com/user/MaXeraph/saved/thFjpg)
+- ⚡ Fun fact: I'm currently building my first PC! - [PCPartPicker](https://ca.pcpartpicker.com/user/MaXeraph/saved/fqrJf7)
 
