@@ -7,3 +7,4 @@
 - 📫 How to reach me: [Max's :japanese_castle:](https://maxpham.dev)
 - ⚡ Fun fact: I'm currently building my first PC! - [PCPartPicker](https://ca.pcpartpicker.com/user/MaXeraph/saved/fqrJf7)
 
+![https://maxpham.dev](https://github-readme-stats.vercel.app/api/top-langs/?username=MaXeraph&layout=compact&theme=material-palenight)
