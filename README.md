@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- 🔭  I’m currently working on Microservices [@UkenGames](https://uken.com)
 - 🌱  I’m currently self-learning **AWS** to take the [Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1&refid=ps_a134p000006gxrtaam&trkcampaign=glbl-fy21-traincert-certification_paidsearch) exam
 - 🤔  I’m looking for help with **System Design and Implementation**
 - 💬  Ask me about Software Development
