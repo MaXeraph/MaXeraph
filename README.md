@@ -1,6 +1,12 @@
-### Hi there 👋
-- 🌱  I'm working on live services for games to run.
+<p align="center">
+  🚀 Working on live services for games. 🚀
+</p>
 
-![https://maxpham.dev](https://github-readme-stats.vercel.app/api/top-langs/?username=MaXeraph&theme=tokyonight&layout=compact)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaXeraph&theme=tokyonight&layout=compact" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaXeraph&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaXeraph&show_icons=true&theme=tokyonight" />
+</p>
